@@ -1,4 +1,4 @@
-# Yoga-site
+# Pictures
 
 ![Alt-текст](https://raw.githubusercontent.com/undro-dev/picture/main/screen-app.png?v=3&s=460 "Орк")
 
